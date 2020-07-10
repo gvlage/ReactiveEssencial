@@ -1,0 +1,13 @@
+button {
+    background-color: darkgray;
+    margin: 10px;
+}
+
+.card-product {
+    margin: 0 25px 25px 25px;
+  }
+  
+  .product-title {
+   font-size: 1rem;
+  }
+  

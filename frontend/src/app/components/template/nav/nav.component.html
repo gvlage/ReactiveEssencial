@@ -1,0 +1,13 @@
+<mat-sidenav-container class="container">
+    <mat-sidenav class="sidenav" mode="side" opened fixedInViewport="true" fixedTopGap="64" fixedBottomGap="64">
+        <mat-nav-list class="nav-list">
+            <a mat-list-item routerLink="/home"><i class="material-icons">home</i>Home</a>
+            <a mat-list-item routerLink="/incremental-search"><i class="material-icons">search</i>Incremental Search</a>
+            <a mat-list-item routerLink="/retry-errors"><i class="material-icons">error</i>Retry Errors</a>
+            <a mat-list-item routerLink="/combine-results"><i class="material-icons">transform</i>Combine Results</a>
+        </mat-nav-list>      
+    </mat-sidenav>
+    <mat-sidenav-content class="content">
+        <router-outlet></router-outlet>
+    </mat-sidenav-content>
+</mat-sidenav-container>

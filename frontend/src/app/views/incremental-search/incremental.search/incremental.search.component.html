@@ -1,0 +1,29 @@
+<mat-card class="home mat-elevation-z3">
+    <mat-card-title class="title">Incremental Search</mat-card-title>
+    <mat-card-subtitle class="subtitle"></mat-card-subtitle>
+    <mat-card-content>
+        <form>
+            <mat-form-field>
+                <input matInput type="text" placeholder="search" (keyup)="searchField$.next($event.target.value)"
+                    name="search">
+            </mat-form-field>
+        </form>
+        <br>
+        <div class="container" fxLayout="row wrap" fxLayoutAlign="space-around center" fxLayoutGap="10px" fxLayoutGap.xs="0">
+            <div fxFlex="33%" *ngFor="let product of products">
+                <mat-card class="card-product">
+                    <mat-card-title>
+                        <span class="product-title">{{product.name}}</span>
+                    </mat-card-title>
+                    <mat-card-subtitle>
+                        <span class="product-subtitle">{{product.departament}}</span>
+                    </mat-card-subtitle>
+                    <img mat-card-image [src]="product.image" width="150" height="250">
+                    <mat-card-content>
+                        <span><i class="material-icons">attach_money</i>{{product.price}}</span>
+                    </mat-card-content>
+                </mat-card>
+            </div>
+        </div>
+    </mat-card-content>
+</mat-card>

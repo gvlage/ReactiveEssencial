@@ -1,0 +1,9 @@
+<mat-card class="home mat-elevation-z3">
+    <mat-card-title class="title">Retry Errors</mat-card-title>
+    <mat-card-subtitle class="subtitle"></mat-card-subtitle>
+    <mat-card-content>  
+        <button mat-button color="primary" (click)="getProducts()">Get Products</button>  
+        <br />  
+        <mat-card class="card-error" *ngFor="let log of logs">{{log}}</mat-card>  
+    </mat-card-content>
+</mat-card>

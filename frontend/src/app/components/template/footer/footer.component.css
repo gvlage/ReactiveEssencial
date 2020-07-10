@@ -1,0 +1,22 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    justify-content: flex-end;
+    background: #E91E63;
+}
+
+.footer img {
+    align-items: center;
+}
+
+.footer a {
+    align-items: center;
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
+}
+
+.footer span {
+   font-size: 10px;
+   align-items: center;
+}

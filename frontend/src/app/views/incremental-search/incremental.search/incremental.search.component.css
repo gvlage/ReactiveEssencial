@@ -1,0 +1,10 @@
+mat-form-field{
+    display: block;
+  } 
+.card-product {
+  margin: 0 25px 25px 25px;
+}
+
+.product-title {
+ font-size: 1rem;
+}

@@ -1,0 +1,116 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Lenovo V145 15.6 Laptop",      
+            "image": "https://images-na.ssl-images-amazon.com/images/I/6107TaWJrFL._AC_SX425_.jpg",
+            "price": 375.00,
+            "department": "electronics"
+        },
+        {
+            "id": 2,
+            "name": "New Apple MacBook Air",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81vKT2GiQKL._AC_SX679_.jpg",
+            "price": 949.00,
+            "department": "electronics"
+        },
+        {
+            "id": 3,
+            "name": "Huawei MateBook D 15 2020",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51xx9NCutcL._AC_SX679_.jpg",
+            "price": 549.00,
+            "department": "electronics"
+        },
+        {
+            "id": 4,
+            "name": "Huawei MateBook D 15",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51xx9NCutcL._AC_SX679_.jpg",
+            "price": 549.00,
+            "department": "electronics"
+        },
+        {
+            "id": 5,
+            "name": "If It Bleeds",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51Op-Ba4uzL._SX324_BO1,204,203,200_.jpg",
+            "price": 9.99,
+            "department": "books"
+        },
+        {
+            "id": 6,
+            "name": "The Stand Paperback",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/5162hC5K0FL._SX324_BO1,204,203,200_.jpg",
+            "price": 9.37,
+            "department": "books"
+        },
+        {
+            "id": 7,
+            "name": "Everything I Never Told You",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51O5hH1UjvL._SX316_BO1,204,203,200_.jpg",
+            "price": 6.14,
+            "department": "books"
+        },
+        {
+            "id": 8,
+            "name": "Dripex Computer Desk",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81DWN-ew8xL._AC_SX679_.jpg",
+            "price": 89.99,
+            "department": "home"
+        },
+        {
+            "id": 9,
+            "name": "Vida Designs Geo Office Computer Chair",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81lhupdqX2L._AC_SX679_.jpg",
+            "price": 38.99,
+            "department": "home"
+        },
+        {
+            "id": 10,
+            "name": "Highams Weighted Blanket 8kg for Adults",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71VKqVwIyIL._AC_SX679_.jpg",
+            "price": 40.42,
+            "department": "home"
+        },
+        {
+            "id": 11,
+            "name": "Gaming Headset with Full Audio Control",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71OnYlfFOKL._AC_SL1500_.jpg",
+            "price": 81.67,
+            "department": "electronics"
+        },
+        {
+            "id": 12,
+            "name": "Logitech G Gaming Headset",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51VDtDO5vxL._AC_SX679_.jpg",
+            "price": 109.99,
+            "department": "electronics"
+        },
+        {
+            "id": 13,
+            "name": "Samsung Galaxy Tab A",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81QEX5ZawXL._AC_SX679_.jpg",
+            "price": 180.46,
+            "department": "electronics"
+        },
+        {
+            "id": 14,
+            "name": "ZtotopCase Case for Samsung Galaxy Tab",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/817HDV8oa5L._AC_SX425_.jpg",
+            "price": 7.99,
+            "department": "electronics"
+        },
+        {
+            "id": 15,
+            "name": "Apple iPad Silver",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61J6uczVvJL._AC_SY741_.jpg",
+            "price": 329.97,
+            "department": "electronics"
+        },
+        {
+            "id": 16,
+            "name": "Microsoft Wired Desktop 600 Keyboard",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51QbB08MYrL._AC_SX679_.jpg",
+            "price": 19.02,
+            "department": "electronics"
+        }
+    ]
+}

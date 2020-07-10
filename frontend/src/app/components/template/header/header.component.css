@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    align-items: center;
+    background: #E91E63;
+}
+
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .logo {
+  height: 70px;
+}
+
+.header .title-group {
+    padding-left: 40px;
+  }
